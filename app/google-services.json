@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "993009514035",
+    "firebase_url": "https://ar-walker.firebaseio.com",
+    "project_id": "ar-walker",
+    "storage_bucket": "ar-walker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993009514035:android:9fbdfab43abae9df",
+        "android_client_info": {
+          "package_name": "com.knight.walker.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993009514035-rnvkg4gpj8l3t73mf32rm1svh1rl0f30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-WaYMBKV5fl6typGw3nD7aXhZbTgzEsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993009514035-rnvkg4gpj8l3t73mf32rm1svh1rl0f30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
